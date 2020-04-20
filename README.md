@@ -23,7 +23,7 @@ A simple python bot to like posts on Instagram
 - On terminal: `pip install selenium` - Wait until installation is complete
 
 ##### 5. Download chromedriver
-- You have to download chromedriver on [this link](https://chromedriver.chromium.org/downloads) according to your Chrome version and OS. If you don't know how to find your Chrome version, paste 'chrome:\\version' on URL bar or check [this tutorial](https://help.zenplanner.com/hc/en-us/articles/204253654-How-to-Find-Your-Internet-Browser-Version-Number-Google-Chrome)!
+- You have to download chromedriver on [this link](https://chromedriver.chromium.org/downloads) according to your Chrome version and OS. If you don't know how to find your Chrome version, paste 'chrome:\\\version' on URL bar or check [this tutorial](https://help.zenplanner.com/hc/en-us/articles/204253654-How-to-Find-Your-Internet-Browser-Version-Number-Google-Chrome)!
 ---
   
   
