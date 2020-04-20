@@ -42,16 +42,6 @@ class UsualFunctions():
         print(f'Error! Impossible to {my_error}! Try again!')
 
     
-    #scroll into post
-    def scroll(self, driver, path):
-        try:
-            element = self.find_element(driver, path)
-        except:
-            pass
-        else:
-            element.location_once_scrolled_into_view
-    
-
     # show the options
     def show_options(self):
         while True:

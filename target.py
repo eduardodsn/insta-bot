@@ -107,5 +107,4 @@ class Target():
 
     # open the first post
     def open_post(self):
-        UsualFunctions().scroll(self.driver, '//*[@id="react-root"]/section/main/div/div[3]/article/div[1]/div/div[1]/div[1]/a/div[1]/div[2]')
         UsualFunctions().click_btn(self.driver, '//*[@id="react-root"]/section/main/div/div[3]/article/div[1]/div/div[1]/div[1]/a/div[1]/div[2]')
