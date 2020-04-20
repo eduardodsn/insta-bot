@@ -31,6 +31,8 @@ A simple python bot to like posts on Instagram
   
 #### 1. Clone this repository or download the ZIP
 
-#### 2. Run the code
+#### 2. Paste chromedriver.exe that you downloaded into main.py folder
+
+#### 3. Run the code
 - On terminal: `python main.py`
 ---  
